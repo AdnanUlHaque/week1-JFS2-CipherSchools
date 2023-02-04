@@ -44,4 +44,3 @@ class Physician extends Doctor{
 			 doc.treatPatient();
    }
  }
-}
