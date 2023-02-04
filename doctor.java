@@ -17,7 +17,7 @@ class Physician extends Doctor{
 		 System.out.println("Hi! I am Dentist \nI Treat Patients teeth");
 	 }
  }
- public class program {
+ public class programdoctor {
 	 public static void main(String[] args) {
 		 System.out.println("Hi! I am Lucy! Receptioninst at Max Care");
 		 System.out.println("Who you are looking for ? ");
